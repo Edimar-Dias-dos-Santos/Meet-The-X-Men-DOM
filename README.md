@@ -36,7 +36,7 @@ The `index.js` file contains the project's logic. It is divided into sections th
 
 ## Live Demo
 
-You can view a live demo of this project [here](#). *(Add your live demo link here)*
+You can view a live demo of this project [here](https://edimar-dias-dos-santos.github.io/Meet-The-X-Men-DOM/).
 
 ## Screenshots
 
